@@ -25,12 +25,14 @@ What is required in your system to show the output:
 
 ------------------------------------------------------------------
 How to use this project:
-1. clone the project from github
-2. cd PatientsRecords
-3. run: php artisan key:generate
-4. run: php artisan migrate
-5. seed some data in your database
-6. You are ready to go...........
+1. clone the project from github in a fresh folder into your local machine
+2. run: cd PatientsRecords
+3. run: composer update
+4. run: php artisan key:generate
+5. run: php artisan migrate
+6. seed some data in your database mannualy.
+
+You are ready to go...........
 
 
  
