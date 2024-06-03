@@ -16,8 +16,11 @@ database for another hospital.So in total 4 hospital database using laravel-11
 What is required in your system to show the output:
 ---------------------------------------------------
 1.Mysql(run the appache and mysql when serve the project) 
+
 2.sqlite
+
 3.Mariadb
+
 4.Mongodb
 
 ------------------------------------------------------------------
