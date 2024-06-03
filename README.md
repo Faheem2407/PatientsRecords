@@ -28,9 +28,10 @@ How to use this project:
 1. clone the project from github in a fresh folder into your local machine
 2. run: cd PatientsRecords
 3. run: composer update
-4. run: php artisan key:generate
-5. run: php artisan migrate
-6. seed some data in your database mannualy.
+4. create .env file in the project folder then copy and paste everything from .env.example file to .env file OR simply just rename the .env.example to .env
+5. run: php artisan key:generate
+6. run: php artisan migrate
+7. seed some data in your database mannualy.
 
 You are ready to go...........
 
